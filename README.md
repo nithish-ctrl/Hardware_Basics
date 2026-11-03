@@ -69,10 +69,3 @@ hardware_basics/
     11_graphics_math/             transform_demo.py, mini_raster.py
 ```
 
-## How This Folder Relates to the Rest
-
-```
-hardware_basics/   ← you are here: foundations, small runnable examples
-GPU_Mastery_Guide.md   the full course (21 parts), which assumes these basics
-gpu_project/           the working GPU: RTL, assembler, emulator, co-simulation tests
-```
